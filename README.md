@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner" alt="Banner" width="70%" />
+  <img src="images/banner" alt="Banner" width="70%" />
 </p>
 
 <h1 align="center">Hi, I’m Ellie! 👋</h1>
