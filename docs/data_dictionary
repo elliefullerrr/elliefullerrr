@@ -1,1 +1,35 @@
+# Data Dictionary
 
+## Fan_Profiles
+Primary Key: fan_id
+
+Contains demographic and fan segmentation information for 5,000 fans.
+
+## Ticket_Transactions
+Primary Key: transaction_id
+Foreign Keys: fan_id, match_id
+
+Contains ticket purchase history and revenue data.
+
+## Merch_Transactions
+Primary Key: merch_transaction_id
+Foreign Key: fan_id
+
+Contains merchandise purchase history and revenue data.
+
+## Email_Campaigns
+Primary Key: email_event_id
+Foreign Keys: fan_id, match_id
+
+Contains marketing email engagement metrics.
+
+## Social_Media
+Primary Key: post_id
+Foreign Key: match_id
+
+Contains social media performance metrics.
+
+## Match_Reference
+Primary Key: match_id
+
+Contains match metadata including attendance, result, opponent, and competition.
