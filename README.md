@@ -15,7 +15,7 @@ Passionate about using data, technology, and strategy to solve business problems
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 • Data and business analyst focused on transforming data into actionable insights  
 • Passionate about bridging technology and business to support strategic decision-making  
@@ -40,7 +40,7 @@ Passionate about using data, technology, and strategy to solve business problems
 
 ---
 
-## 📈 Current Focus
+## 👀 Current Focus
 
 • Building real-world analytics and dashboard projects  
 • Expanding my GitHub portfolio  
